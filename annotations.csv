@@ -1,0 +1,4 @@
+filename,xmin,ymin,xmax,ymax,label
+image01.png,50,30,200,180,damage
+image02.png,100,100,300,300,damage
+image03.png,30,50,100,200,damage
